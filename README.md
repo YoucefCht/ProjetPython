@@ -19,5 +19,6 @@ The `main.py` file uses the `Matrix` function to calculate TF, IDF, and TF-IDF s
 The function `display_highest_tfidf`  in `functions.py` displays the word(s) with the highest TF-IDF score. 
  - 6. Merge values ​​from two files 
 The function `merge_values`  in `functions.py` merges the values ​​of words in two files and writes the sum to an output file. 
+
  How to use it 
-1. Remember to adjust the path and parameters to suit your specific needs.  2. Run `main.py` to perform TF, IDF and TF-IDF calculations.  3. Explore the results in the output file and use the functions provided to extract important information.
+ Feel free to interact with the menu and stop the conversation as soon as you finished
