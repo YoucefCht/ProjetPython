@@ -1,26 +1,16 @@
 from functions import *
 # import the functions from functions.py
 
+#access
 chemin_acces = 'speeches'
 extension = '.txt'
 cleaned_folder = 'cleaned'
-#acces
 
 copy = copy(chemin_acces, extension, cleaned_folder)
 list = president_name(chemin_acces, extension)
 lien = 'cleaned'
 function_tf(lien)
-Matrix(lien)
-punctuation(lien)
-matrix = Matrix(lien)
-useless_words(matrix)
-strong_words(matrix)
-lot_words_chirac()
-nation()
-climat()
-common_words_all_presidents()
-#use of every function one time to create the file.txt
-
+#creation of the first files.txt
 
 
 print(
