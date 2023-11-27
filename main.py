@@ -12,6 +12,13 @@ lien = 'cleaned'
 function_tf(lien)
 #creation of the first files.txt
 
+print('''
+      ####   #####  ####   ####   ###        ####  #   #   ###  ###### ####    ###  ######
+      #      #      #   #  #       #        #      #   #  #   #   ##   #   #  #   #   ##
+      ####   ####   ####   ###     #        #      #####  #####   ##   ####   #   #   ##
+      #      #      #  #   #       #        #      #   #  #   #   ##   #   #  #   #   ##
+      ####   #      #   #  ####   ###        ####  #   #  #   #   ##   ####    ###    ##
+''')
 
 print(
     "Hello, Choose your action : \n \n 1- Display the list of least important words \n 2- Display the word(s) with the highest TD-IDF score \n 3- Display the most repeated word(s) by President Chirac \n 4- Display the president(s) who said the word Nation and who repeated it the most times. \n 5- Display the first president to talk about climate or ecology \n 6- Display the words that all the president mention. \n 7- Stop de discussion")
