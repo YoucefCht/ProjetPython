@@ -1,6 +1,27 @@
 from functions import *
-
 # import the functions from functions.py
+
+chemin_acces = 'speeches'
+extension = '.txt'
+cleaned_folder = 'cleaned'
+#acces
+
+copy = copy(chemin_acces, extension, cleaned_folder)
+list = president_name(chemin_acces, extension)
+lien = 'cleaned'
+function_tf(lien)
+Matrix(lien)
+punctuation(lien)
+matrix = Matrix(lien)
+useless_words(matrix)
+strong_words(matrix)
+lot_words_chirac()
+nation()
+climat()
+common_words_all_presidents()
+#use of every function one time to create the file.txt
+
+
 
 print(
     "Hello, Choose your action : \n \n 1- Display the list of least important words \n 2- Display the word(s) with the highest TD-IDF score \n 3- Display the most repeated word(s) by President Chirac \n 4- Display the president(s) who said the word Nation and who repeated it the most times. \n 5- Display the first president to talk about climate or ecology \n 6- Display the words that all the president mention. \n 7- Stop de discussion")
