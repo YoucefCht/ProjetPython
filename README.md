@@ -22,3 +22,5 @@ The function `merge_values`  in `functions.py` merges the values ​​of words 
 
  How to use it 
  Feel free to interact with the menu and stop the conversation as soon as you finished
+Link of the repository :
+https://github.com/YoucefCht/ProjetPython
