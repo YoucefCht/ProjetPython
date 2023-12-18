@@ -38,7 +38,7 @@ def copy(directory, extension, cleaned_folder):
     for files in os.listdir(directory):
         if files.endswith(extension):
             input_path = os.path.join(directory, files)
-            # 
+            #
             output_path = os.path.join(cleaned_folder, files.lower())
             # replace 'filename' with 'files'
 
