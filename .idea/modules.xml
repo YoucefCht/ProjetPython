@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ProjetPython.iml" filepath="$PROJECT_DIR$/.idea/ProjetPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Chat_Bot_VScode.iml" filepath="$PROJECT_DIR$/.idea/Chat_Bot_VScode.iml" />
     </modules>
   </component>
 </project>
